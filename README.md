@@ -10,14 +10,14 @@ usage: Url_Digger.py [-h] -d DOMAIN -l LIMIT -f FILE [-sub] [-sf SUBDOMAIN_FILE]
 
 optional arguments:
 
--h, --help                      show this help message and exit
+-h, --help                                             show this help message and exit
 
--d DOMAIN, --domain DOMAIN      The domain to target ie. cnn.com
+-d DOMAIN, --domain DOMAIN                             The domain to target ie. cnn.com
 
--l LIMIT, --limit LIMIT         Number Of Data From Each Url
+-l LIMIT, --limit LIMIT                                Number Of Data From Each Url
 
--f FILE, --file FILE            File name eg. test.txt
+-f FILE, --file FILE                                   File name eg. test.txt
 
--sub, --subdomain               extract Subdomain
+-sub, --subdomain                                      extract Subdomain
 
 -sf SUBDOMAIN_FILE,  --subdomain_file SUBDOMAIN_FILE   extracted Subdomain and stored in this file
