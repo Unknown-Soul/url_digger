@@ -1,5 +1,5 @@
 # url_digger
-Python version of gau with some upgrades
+Python version of gau(https://github.com/lc/gau) with some upgrades
 It eliminate duplicacy of url that is one problem with gau. Solved using map.
 Crawl wayback_machine, AlieVault and CommonCrawler to dig urls
 Other than that it also dig for subdomains from same urls and crt.sh. As urls dig from these sources are rich in subdomains 
